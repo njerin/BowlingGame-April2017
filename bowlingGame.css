@@ -1,0 +1,31 @@
+html{
+    height: 100%
+}
+body{
+    font-family: Lato;
+}
+.navbar{
+    background-color: chocolate;
+}
+.navbar-header{
+    float: left;
+    padding: 2%;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand{
+    float: none;
+    font-size: 250%;
+    color: white;
+}
+#score{
+    margin-top: 1.5%;
+}
+#buttons{
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+.bowlingImage{
+    text-align: center;
+    margin-top: 10%;
+}
